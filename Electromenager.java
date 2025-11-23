@@ -2,7 +2,7 @@ public class  Electromenager extends ProduitElectronique {
     private int puissance;
     private int consommation;
     private String categorie;
-    public Electromenager(String codeProduit, String nomProduit, String marque, float prix, int quantite,String descrption, int puissance, int consommation, String categorie) {
+    public Electromenager(String codeProduit, String nomProduit, String marque, Double prix, int quantite, String descrption, int puissance, int consommation, String categorie) {
         super(codeProduit,nomProduit,marque,prix,quantite,descrption);
         this.puissance=puissance;
         this.consommation=consommation;
