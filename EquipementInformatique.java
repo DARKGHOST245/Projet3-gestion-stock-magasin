@@ -23,6 +23,11 @@ public class EquipementInformatique extends ProduitElectronique{
     public int getStockage() {
         return Stockage;
     }
+
+    public void setStockage(int stockage) {
+        this.Stockage = stockage;
+    }
+
     public String afficherProduit() {
         return super.afficherProduit() + "  Type: " + type + "\n" + " Systeme: " + systeme + "\n" + " Stockage: " + Stockage + " GO\n";
     }
