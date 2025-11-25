@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-
 public class InitialisationStock {
     private static ArrayList<ProduitElectronique> Produit = new ArrayList<>();
     static {
@@ -22,4 +21,7 @@ public class InitialisationStock {
      public static ArrayList<ProduitElectronique> getStock() {
         return Produit;
      }
+    public static void s() {
+
+    }
 }

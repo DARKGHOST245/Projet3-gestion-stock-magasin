@@ -1,3 +1,4 @@
+
 public class  Electromenager extends ProduitElectronique {
     private int puissance;
     private int consommation;
