@@ -18,10 +18,9 @@ public class InitialisationStock {
         Produit.add(new AccesoireElectronique(" ACO23 ", "Casque Sony ", "Sony ",75,6, "Casque audio Bluetooth ", "PC/Smartphone",12, "Bleu ")) ;
         Produit.add(new AccesoireElectronique(" ACO24 ", " Câble HDMI ", "Belkin ",15,20, "Câble HDMI 2m ", "Toutes plateformes ",12, "Noir ")) ;
     }
-     public static ArrayList<ProduitElectronique> getStock() {
+    public static ArrayList<ProduitElectronique> getStock() {
         return Produit;
-     }
+    }
     public static void s() {
-
     }
 }
