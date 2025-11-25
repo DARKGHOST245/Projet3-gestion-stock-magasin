@@ -1,0 +1,16 @@
+Electromenager;EL001 ; Réfrigérateur LG ;LG ;450.5;10; Frigo basse ;150;120;Cuisine 
+Electromenager; EL002 ;Micro-onde Samsung ;Samsung ;120.0;7; Micro-onde 800W ;800;50; Cuisine 
+Electromenager;EL003 ; Lave-linge Bosch ; Bosch ;600.0;5; Lave-linge 7kg ;1000;200; Buanderie 
+Electromenager;EL004 ;Climatiseur LG;LG ;750.0;3;Climatisation 12000 BTU ;1500;400; Chambre 
+Electromenager; EL005 ;Four Electrolux ;Electrolux ;500.0;6;Four électrique ;2000;300;Cuisine 
+EquipementInformatique;IT100;Ordinateur Portable HP ;HP ;850.0;5; Laptop Core i5 ; Laptop ;Windows 11 ;512
+EquipementInformatique;IT101;Tablette Samsung ;Samsung ;300.0;12;Tablette Android ;Tablette;Android 13 ;128
+EquipementInformatique; IT102 ;Ordinateur Bureau Dell ;Dell ;1200.0;4;PC fixe i7 ;PC ;Windows 11 ;1024
+EquipementInformatique; IT103 ;Laptop Asus ;Asus ;900.0;6;Laptop i5 ;Laptop ;Windows 11 ;512
+EquipementInformatique; IT104 ;Serveur HP ;HP ;2000.0;2;Serveur entreprise ;Serveur ;Linux ;2048
+AccessoireElectronique;ACO20;Chargeur Type-C ;Samsung ;20.0;15;Chargeur rapide Android;Android Type-C ;12;Noir 
+AccessoireElectronique; ACO21 ;Souris Logitech ;Logitech ;25.0;10;Souris sans fil ;PC ;24;Gris 
+AccessoireElectronique; ACO22 ; Clavier Razer ;Razer ;50.0;8;Clavier gamer ;PC ;24;Noir 
+AccessoireElectronique; ACO23 ;Casque Sony ;Sony ;75.0;6;Casque audio Bluetooth ;PC/Smartphone;12;Bleu 
+AccessoireElectronique; ACO24 ; Câble HDMI ;Belkin ;15.0;20;Câble HDMI 2m ;Toutes plateformes ;12;Noir 
+EquipementInformatique;PO100;Iphone 15;apple;800.0;10;iphone moderne;Portable;IOS 17;256
